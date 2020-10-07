@@ -1,6 +1,13 @@
 # TIL
 Today I Learend
 ----
+###### 20201007 RESTful API設計
+- [RESTful APIの設計でやること - Qiita](https://qiita.com/NagaokaKenichi/items/89c09354f08fc8d7387f)
+  - 体系的
+- [ログ設計指針 - Qiita](https://qiita.com/nanasess/items/350e59b29cceb2f122b3)
+  - レスポンスヘッダ・フッタについても
+----
+
 ###### 20200730 PowerShellによるToil自動化
 - [PowerShellスクリプトを書くときのテンプレート - Qiita](https://qiita.com/kurukurupapa@github/items/2d3ff1a692dc831bd133)
   - Powershell 5.0 以前の書き方もあるが便利
