@@ -1,11 +1,19 @@
 # TIL
 Today I Learend
 ----
+###### 20201116 SQL 50本ノック（技術評論社）
+- [「第1特集　データ分析に効くSQL50本ノック」](https://gihyo.jp/magazine/SD/archive/2017/201711/support)
+  - 素振り用に
+- [AWS Cloud9 の Docker サンプル - AWS Cloud9](https://docs.aws.amazon.com/ja_jp/cloud9/latest/user-guide/sample-docker.html)
+  - 素振り環境用のDockerとして、Cloud9 
+
+----
 ###### 20201007 RESTful API設計
 - [RESTful APIの設計でやること - Qiita](https://qiita.com/NagaokaKenichi/items/89c09354f08fc8d7387f)
   - 体系的
 - [ログ設計指針 - Qiita](https://qiita.com/nanasess/items/350e59b29cceb2f122b3)
   - レスポンスヘッダ・フッタについても
+
 ----
 
 ###### 20200730 PowerShellによるToil自動化
