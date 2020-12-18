@@ -1,5 +1,10 @@
 # TIL
 Today I Learend
+
+----
+###### 20201218 リンク集
+
+- [マイクロソフトパッチ検索](http://www.catalog.update.microsoft.com/Search.aspx)
 ----
 ###### 20201217 アプリケーション戦略
 - [8割弱の企業にはアプリケーション戦略がない--ガートナー調査 - ZDNet Japan](https://japan.zdnet.com/article/35163916/)
