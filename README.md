@@ -28,11 +28,6 @@ Today I Learend
 - [プロダクトのリリースとGitブランチ運用を考えてみた | DevelopersIO](https://dev.classmethod.jp/articles/product-git-branch-rule/)
 - [Amazon SageMaker と GluonTS で株価の予測をしてみよう - builders.flash☆ - 変化を求めるデベロッパーを応援するウェブマガジン | AWS](https://aws.amazon.com/jp/builders-flash/202102/ml-stock-price-forecast/?awsf.filter-name=*all)
 - []()
-- []()
-- []()
-- []()
-- []()
-- []()
 
 ----
 ###### 20201218 リンク集
