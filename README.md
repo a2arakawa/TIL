@@ -27,6 +27,17 @@ Today I Learend
 - [ICYMI: Serverless Q4 2020 | AWS Compute Blog](https://aws.amazon.com/jp/blogs/compute/icymi-serverless-q4-2020/)
 - [プロダクトのリリースとGitブランチ運用を考えてみた | DevelopersIO](https://dev.classmethod.jp/articles/product-git-branch-rule/)
 - [Amazon SageMaker と GluonTS で株価の予測をしてみよう - builders.flash☆ - 変化を求めるデベロッパーを応援するウェブマガジン | AWS](https://aws.amazon.com/jp/builders-flash/202102/ml-stock-price-forecast/?awsf.filter-name=*all)
+- [アーキテクチャ 【まとめ】 -マイクロサービス、ミニサービス、モジュラーモノリス、モノリシックアーキテクチャを並べて比べてみました- - RAKUS Developers Blog | ラクス エンジニアブログ](https://tech-blog.rakus.co.jp/entry/20201218/architecture)
+- [課題を管理して実行して達成するための手順 - そーだいなるらくがき帳](https://soudai.hatenablog.com/entry/2020/12/31/165940)
+- [DevOps の能力  |  Google Cloud](https://cloud.google.com/architecture/devops/capabilities?hl=ja)
+- [「AWS Well-Architected フレームワーク」の「レビュープロセス」資料がとても良かったので紹介したい - Qiita](https://qiita.com/yasuoyasuo/items/d873498ffdfc4d7764f6)
+- [AWS公式の無料EラーニングでAPI Gateway REST APIを網羅的に学ぶ | DevelopersIO](https://dev.classmethod.jp/articles/api-gateway-e-learning/)
+- [「挑戦させすぎ？」マネジメント勉強会で分かった組織課題とその解決策 - ZOZO TECH BLOG](https://techblog.zozo.com/entry/organization-management-solution)
+- [仕組みから理解する Git 入門 ~ ひとり開発でも便利 ~ - Speaker Deck](https://speakerdeck.com/mu_zaru/shi-zu-mikarali-jie-suru-git-ru-men-hitorikai-fa-demobian-li)
+- [NewsPicksにCTOとして入社して1年でDX Criteriaを大幅改善した話 - Uzabase Tech](https://tech.uzabase.com/entry/2021/01/28/190209)
+- [エンジニアから都庁へ～中の人が語る街のDX、都庁のDX～](https://www.slideshare.net/norisukehirai/dxdx-242997785)
+- [Teamsマニュアルと「つくば市先進的ICT教育」サイト（1人1台端末の授業動画も） | きょういく　ユースフル！　～　僕は触媒になりたい　～ - 楽天ブログ](https://plaza.rakuten.co.jp/kyouikuuseful/diary/202101160000/)
+- [招待制SNSを作った話 | blog.ojisan.io](https://blog.ojisan.io/delete-discohouse/)
 - []()
 
 ----
