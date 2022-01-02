@@ -2,6 +2,39 @@
 Today I Learend
 
 ----
+###### 20220102 あとでよむ
+
+- [「イラストでわかるDockerとKubernetes」は完全に良書 - Cloud Penguins](https://jaco.udcp.info/entry/2020/12/08/215058)
+- [Cypress + TestRail による Frontend E2E テストの効率化について | メルカリエンジニアリング](https://engineering.mercari.com/blog/entry/20201207-cypress-testrail-frontend-e2e-automation/)
+- [ElasticsearchとKibela APIを使ってSlackでのCSお問い合わせ対応業務を改善した話 - BASEプロダクトチームブログ](https://devblog.thebase.in/entry/2020/12/11/113000)
+- [画像検索システム再設計のお話 | メルカリエンジニアリング](https://engineering.mercari.com/blog/entry/20201204-imagesearch/)
+- [アプリケーションの不調を発見し、チームで改善できた話 - 弥生開発者ブログ](https://tech-blog.yayoi-kk.co.jp/entry/2020/12/08/110809)
+- [ZOZOのテックカンパニーへの変遷、CTOとしての取り組みを振り返る｜kyuns /キュン 今村雅幸｜note](https://note.com/kyuns/n/n00d467243857)
+- [CSお問い合わせ対応を当番制にして運用してみた話 - BASEプロダクトチームブログ](https://devblog.thebase.in/entry/2020/12/10/113000)
+- [技術選定/アーキテクチャ設計で後悔しないためのガイドライン - Qiita](https://qiita.com/hirokidaichi/items/a746062917595619720b)
+- [プロダクトマネージャーの意思決定ロジックの可視化 - もくもくプロダクトマネジメント( @Nunerm )](https://productmanager55.hatenablog.com/entry/2020/12/10/093228)
+- [猛烈に成長するSaaSのインフラを猛烈にカイゼンする技術 - ANDPAD Tech Blog](https://tech.andpad.co.jp/entry/2020/12/14/170000)
+- [管理職のための役職引退マニュアル | DevelopersIO](https://dev.classmethod.jp/articles/howto-quit-the-general-manager/)
+- [JavaコードをGCPのCloud Profilerで分析してみる | GMOアドパートナーズ TECH BLOG byGMO](https://techblog.gmo-ap.jp/2020/12/17/cloud-profiler/)
+- [AWS環境における実践的なインシデントレスポンス演習の作成 | 調査研究/ブログ | 三井物産セキュアディレクション株式会社](https://www.mbsd.jp/research/20201217.html)
+- [想定外の負荷を乗り切ったオンライン教育サービスの裏側 / How We Overcame the COVID-19 Crisis - Speaker Deck](https://speakerdeck.com/chaspy/how-we-overcame-the-covid-19-crisis)
+- [DevSecOpsとは何か — 導入する組織が増加している理由 | メルカリエンジニアリング](https://engineering.mercari.com/blog/entry/20201214-bea4717e9a/)
+- [文系パパエンジニアが放送大学等でコンピュータサイエンス・数学を学んで理系学士を取りに行く話 - とあるCS学徒のブログ](https://wbspry.hatenablog.com/entry/2021/02/24/111912)
+- [巣ごもりDXステップ講座情報ナビ （METI/経済産業省）](https://www.meti.go.jp/policy/it_policy/jinzai/sugomori/)
+- [放送大学マイルストーン('21)｜lumpsucker｜note](https://note.com/lumpsucker/n/n2a9ee74956dc)
+- [総務省、社会人のためのデータサイエンス入門を無料開講](https://ledge.ai/soumu0105/)
+- [Lambdaのテスト領域に関する技術共有会を開催しました | DevelopersIO](https://dev.classmethod.jp/articles/lambda-test-technology-sharing-meeting/)
+- [ICYMI: Serverless Q4 2020 | AWS Compute Blog](https://aws.amazon.com/jp/blogs/compute/icymi-serverless-q4-2020/)
+- [プロダクトのリリースとGitブランチ運用を考えてみた | DevelopersIO](https://dev.classmethod.jp/articles/product-git-branch-rule/)
+- [Amazon SageMaker と GluonTS で株価の予測をしてみよう - builders.flash☆ - 変化を求めるデベロッパーを応援するウェブマガジン | AWS](https://aws.amazon.com/jp/builders-flash/202102/ml-stock-price-forecast/?awsf.filter-name=*all)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+----
 ###### 20201218 リンク集
 
 - [マイクロソフトパッチ検索](http://www.catalog.update.microsoft.com/Search.aspx)
