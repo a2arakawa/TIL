@@ -1,6 +1,39 @@
 # TIL
 Today I Learend
 
+
+----
+###### 20220103 あとでよむ（API関連情報収取）
+- [【対談】APIによるデータ活用モデルの展望 スーパーシティ構想にみる、データ活用による未来 - CCCマーケティング株式会社　橋本 孝一 氏 - NEWS | 株式会社ブリスコラ API プラットフォーム](https://briscola-api.com/news/archives/202112031505.html)
+ - モダンAPIゲートウェイ構成はやはりこうなる。
+- [API設計スキルを次のレベルに引き上げるベストプラクティス22選 - Qiita](https://qiita.com/baby-degu/items/6f516189445d98ddbb7d)
+- [金融APIセキュリティのためのOAuth/OIDC入門](https://tech.bitbank.cc/20201211/)
+- [Cognitoから払い出されたIdTokenをAPI Gateway カスタムオーソライザーのLambda(Python3.6)で検証する方法 | DevelopersIO](https://dev.classmethod.jp/articles/verify_cognit_idtoken_by_apig_custom_auth/)
+- [「挫折しない OAuth / OpenID Connect 入門」のポイント - Authlete](https://www.authlete.com/ja/resources/videos/20211006/)
+- [図解 DPoP (OAuth アクセストークンのセキュリティ向上策の一つ) - Qiita](https://qiita.com/TakahikoKawasaki/items/34c82fb5c0595b6fc289)
+- [AWS Lambdaによる進化的アーキテクチャの構築 | Amazon Web Services ブログ](https://aws.amazon.com/jp/blogs/news/developing-evolutionary-architecture-with-aws-lambda/)
+- [OAuth 2.0 Token Binding - マイクロソフト系技術情報 Wiki](https://techinfoofmicrosofttech.osscons.jp/index.php?OAuth%202.0%20Token%20Binding)
+- [2021年版、サーバーレスのテスト手法を考える / Serverless Testing 2021 - Speaker Deck](https://speakerdeck.com/_kensh/serverless-testing-2021)
+- [API Gateway Lambda オーソライザーを使用する - Amazon API Gateway](https://docs.aws.amazon.com/ja_jp/apigateway/latest/developerguide/apigateway-use-lambda-authorizer.html)
+- [金融サービス用APIのマーケットプレースが10月にオープン　NTTデータが非営利で運営 - ITmedia NEWS](https://www.itmedia.co.jp/news/articles/2108/31/news168.html)
+- [サーバレスのバックエンド作成サービス「AWS Amplify」で認証認可機能付きのダッシュボードを作る：AWSチートシート - ＠IT](https://atmarkit.itmedia.co.jp/ait/articles/2108/12/news012.html)
+- [セキュアなトークンの作り方 - astamuse Lab](https://lab.astamuse.co.jp/entry/2021/08/12/114500)
+- [Go製のREST APIにUnitテストを追加した話 - SMARTCAMP Engineer Blog](https://tech.smartcamp.co.jp/entry/try-go-unit-test)
+- [見ているサイト上に露出している機密情報(APIトークン、IPアドレスなど)を見つけるブラウザ拡張を作りました | Web Scratch](https://efcl.info/2021/08/19/secretlint-webextension/)
+- [ジャパンネット銀行と三菱UFJ銀行に聞く、更新系API開発と公開の裏側：DX全盛時代、求められる企業、頼られるエンジニアとは？（3）（1/2 ページ） - ＠IT](https://atmarkit.itmedia.co.jp/ait/articles/1803/15/news008.html)
+- [世界有数のAPI利用企業で考える標準仕様範囲外の仕様とユーザー体験の関係性 | Money Forward Engineers' Blog](https://moneyforward.com/engineers_blog/2021/02/22/api-ux/)
+- [フロントエンドエンジニアがAWSトップエンジニアになるまで - NRIネットコムBlog](https://tech.nri-net.com/entry/2021/07/06/090000)
+- [FAPI Part 2 (Read and Write API Security Profile) - マイクロソフト系技術情報 Wiki](https://techinfoofmicrosofttech.osscons.jp/index.php?FAPI%20Part%202%20%28Read%20and%20Write%20API%20Security%20Profile%29)
+- [Electron API レシピブック 2021](https://zenn.dev/sprout2000/books/3691a679478de2)
+- [実装者による Financial-grade API (FAPI) 解説 - Qiita](https://qiita.com/TakahikoKawasaki/items/83c47c9830097dba2744)
+- [Wantedly で API Gateway Pattern を検討し、本番環境への導入まで行った話 | Wantedly Engineer Blog](https://www.wantedly.com/companies/wantedly/post_articles/276698)
+- [Amazon API Gateway プライベート API の「プライベート」を誤解してると、とても危ないという話。 | DevelopersIO](https://dev.classmethod.jp/articles/private-api-is-not-private-for-you/)
+- [framekit で静的サイトを API 化する](https://zenn.dev/mizchi/articles/intro-framekit)
+- [本当に使ってよかったOpenAPI (Swagger) ツール | フューチャー技術ブログ](https://future-architect.github.io/articles/20191008/)
+- []()
+- []()
+
+
 ----
 ###### 20220102 あとでよむ
 
@@ -38,7 +71,6 @@ Today I Learend
 - [エンジニアから都庁へ～中の人が語る街のDX、都庁のDX～](https://www.slideshare.net/norisukehirai/dxdx-242997785)
 - [Teamsマニュアルと「つくば市先進的ICT教育」サイト（1人1台端末の授業動画も） | きょういく　ユースフル！　～　僕は触媒になりたい　～ - 楽天ブログ](https://plaza.rakuten.co.jp/kyouikuuseful/diary/202101160000/)
 - [招待制SNSを作った話 | blog.ojisan.io](https://blog.ojisan.io/delete-discohouse/)
-- []()
 
 ----
 ###### 20201218 リンク集
