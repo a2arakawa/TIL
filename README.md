@@ -36,7 +36,33 @@ Today I Learend
 - [OpenAPI（Swagger）のAPI開発Docker環境を整備した（yaml分割編集、SwaggerUI表示、モックサーバー、静的HTML出力） - Qiita](https://qiita.com/minato-naka/items/3b0bcf0788a2150f3171)
 - [オープンデータを広く活用してもらうための３つの工夫｜荻原 和樹 / Kazuki OGIWARA｜note](https://note.com/kazukio/n/n5bb612de0da4)
 - [サーバーレスの勉強方法を聞いてみた。- builders.flash☆ - 変化を求めるデベロッパーを応援するウェブマガジン | AWS](https://aws.amazon.com/jp/builders-flash/202101/way-to-learn-serverless/?awsf.filter-name=*all)
-- []()
+
+----
+###### 20220103 あとでよむ
+- [サッと Markdown でスライドを書いて GitHub で自動的に HTML と PDF を公開する方法](https://zenn.dev/koharakazuya/articles/1abe9cb8d8f936)
+- [TDD研修 by t_wada さん を開催しました - Classi開発者ブログ](https://tech.classi.jp/entry/2021/01/26/115500)
+- [アプリケーションの合理化: 移行工程でこの最初の一歩が必要な理由 | Google Cloud Blog](https://cloud.google.com/blog/ja/products/application-development/application-rationalization-what-why-and-how)
+- [自動運転を支えるWeb技術 - 信頼性への取り組み (SRE編) - Tier IV Tech Blog](https://tech.tier4.jp/entry/2021/01/20/160000)
+- [何故CTO職が必要なのか？｜えふしん｜note](https://note.com/fshin2000/n/n528cf7b1d23d)
+- [エストニアの新型コロナウイルス接触確認アプリHOIA（ホイア）から見た、デジタル国家のITガバナンス - Japan Estonia/EU Association for Digital Society](https://www.jeeadis.jp/jeeadis-blog/hoiait)
+- [クラウドサービスリスト - ISMAPポータル](https://www.ismap.go.jp/csm?id=cloud_service_list)
+- [AWS SaaS Boost を利用したモノリスアプリケーションの SaaS 移行 | Amazon Web Services ブログ](https://aws.amazon.com/jp/blogs/news/transforming-your-monolith-to-saas-with-aws-saas-boost/)
+- [価値をもたらす取締役会資料の外せない設計思想とは？｜GCP X｜note](https://note.com/gcpx/n/nb929ff1b56c7)
+- [AIの基礎と開発プロジェクトの進め方を学べる無料講座、週1時間程度で](https://ledge.ai/ai-basics-development/)
+- [「フリーランスとして安心して働ける環境を整備するためのガイドライン」（案）に対するパブリックコメントの結果及び同ガイドラインを取りまとめました （METI/経済産業省）](https://www.meti.go.jp/press/2020/03/20210326005/20210326005.html)
+- [「フリーランスとして安心して働ける環境を整備するためのガイドライン」（案）に対するパブリックコメントの結果及び同ガイドラインを取りまとめました （METI/経済産業省）](https://www.pref.saitama.lg.jp/a0503/super-city/saitama-super-city.html)
+- [SRE を成功させるには、まず計画を立てることが大事 | Google Cloud Blog](https://cloud.google.com/blog/ja/products/gcp/sre-success-starts-with-getting-leadership-on-board)
+- [GIGAスクール構想の実現について：文部科学省](https://www.mext.go.jp/a_menu/other/index_00001.htm)
+- [コンテナ利用者に捧げる AWS Lambda の新しい開発方式 ! - 変化を求めるデベロッパーを応援するウェブマガジン | AWS](https://aws.amazon.com/jp/builders-flash/202103/new-lambda-container-development/?awsf.filter-name=*all)
+- [大手金融機関におけるセキュリティ・コンプライアンスのためのイベント管理 | Amazon Web Services ブログ](https://aws.amazon.com/jp/blogs/news/bbva-automated-responses-through-event-management-scale/)
+- [AWS 認定 高度なネットワーキング – 専門知識(AWS Certified Advanced Networking – Specialty)の学習方法 - NRIネットコムBlog](https://tech.nri-net.com/entry/aws_certified_advanced_networking_specialty)
+- [【保存版】東京リージョンの AWS 障害発生時にクラスメソッドのテクニカルサポートチームがやっていること | DevelopersIO](https://dev.classmethod.jp/articles/technical-support-aws-failure-launch01/)
+- [Ansibleによる運用自動化について](http://www.rtpro.yamaha.co.jp/RT/docs/ansible/index.html)
+- [金融機関や大企業のDXはどうすすめればいいか｜福島良典 | LayerX](https://comemo.nikkei.com/n/nd3eb6eb8c79c?gs=1e7ff8445482)
+- [政府情報システム開発における「アジャイル・ガイド」｜市谷 聡啓 (papanda)｜note](https://note.com/papanda0806/n/n08b5402d5597)
+- [S3に配置したForm画面より情報を入力しSlackへ投稿してみる - サーバーワークスエンジニアブログ](https://blog.serverworks.co.jp/tech/2020/05/29/sendtoslack/)
+- [ASCII.jp：Power Automate Desktopを使い、勤怠管理システムを簡単に作る方法](https://ascii.jp/elem/000/004/048/4048565/)
+- [AWS Hands-on for Beginners AWS エッジサービス入門ハンズオンを公開しました！ | Amazon Web Services ブログ](https://aws.amazon.com/jp/blogs/news/aws-hands-on-for-beginners-12/)
 
 ----
 ###### 20220102 あとでよむ
