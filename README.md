@@ -30,6 +30,11 @@ Today I Learend
 - [Amazon API Gateway プライベート API の「プライベート」を誤解してると、とても危ないという話。 | DevelopersIO](https://dev.classmethod.jp/articles/private-api-is-not-private-for-you/)
 - [framekit で静的サイトを API 化する](https://zenn.dev/mizchi/articles/intro-framekit)
 - [本当に使ってよかったOpenAPI (Swagger) ツール | フューチャー技術ブログ](https://future-architect.github.io/articles/20191008/)
+- [auth-OAuth.pdf](https://gmo-aozora.com/business/service/pdf/auth-OAuth.pdf)
+- [【レポート】コンテナだけどサーバーレス！ AWS Lambda の最新機能をご紹介 #AWSSummit | DevelopersIO](https://dev.classmethod.jp/articles/awssummit2021-lambda-container-support/)
+- [AWS API GatewayとLambdaでDynamoDB操作｜コラム｜クラウドソリューション｜サービス｜法人のお客さま｜NTT東日本](https://business.ntt-east.co.jp/content/cloudsolution/column-try-20.html)
+- [OpenAPI（Swagger）のAPI開発Docker環境を整備した（yaml分割編集、SwaggerUI表示、モックサーバー、静的HTML出力） - Qiita](https://qiita.com/minato-naka/items/3b0bcf0788a2150f3171)
+- [オープンデータを広く活用してもらうための３つの工夫｜荻原 和樹 / Kazuki OGIWARA｜note](https://note.com/kazukio/n/n5bb612de0da4)
 - []()
 - []()
 
