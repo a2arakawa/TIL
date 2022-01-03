@@ -5,7 +5,7 @@ Today I Learend
 ----
 ###### 20220103 あとでよむ（API関連情報収取）
 - [【対談】APIによるデータ活用モデルの展望 スーパーシティ構想にみる、データ活用による未来 - CCCマーケティング株式会社　橋本 孝一 氏 - NEWS | 株式会社ブリスコラ API プラットフォーム](https://briscola-api.com/news/archives/202112031505.html)
- - モダンAPIゲートウェイ構成はやはりこうなる。
+  - モダンAPIゲートウェイ構成はやはりこのようになる。
 - [API設計スキルを次のレベルに引き上げるベストプラクティス22選 - Qiita](https://qiita.com/baby-degu/items/6f516189445d98ddbb7d)
 - [金融APIセキュリティのためのOAuth/OIDC入門](https://tech.bitbank.cc/20201211/)
 - [Cognitoから払い出されたIdTokenをAPI Gateway カスタムオーソライザーのLambda(Python3.6)で検証する方法 | DevelopersIO](https://dev.classmethod.jp/articles/verify_cognit_idtoken_by_apig_custom_auth/)
