@@ -35,9 +35,8 @@ Today I Learend
 - [AWS API GatewayとLambdaでDynamoDB操作｜コラム｜クラウドソリューション｜サービス｜法人のお客さま｜NTT東日本](https://business.ntt-east.co.jp/content/cloudsolution/column-try-20.html)
 - [OpenAPI（Swagger）のAPI開発Docker環境を整備した（yaml分割編集、SwaggerUI表示、モックサーバー、静的HTML出力） - Qiita](https://qiita.com/minato-naka/items/3b0bcf0788a2150f3171)
 - [オープンデータを広く活用してもらうための３つの工夫｜荻原 和樹 / Kazuki OGIWARA｜note](https://note.com/kazukio/n/n5bb612de0da4)
+- [サーバーレスの勉強方法を聞いてみた。- builders.flash☆ - 変化を求めるデベロッパーを応援するウェブマガジン | AWS](https://aws.amazon.com/jp/builders-flash/202101/way-to-learn-serverless/?awsf.filter-name=*all)
 - []()
-- []()
-
 
 ----
 ###### 20220102 あとでよむ
