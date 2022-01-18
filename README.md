@@ -1,6 +1,43 @@
 # TIL
 Today I Learend
 
+----
+###### 20220118 あとでよむ（PM観点と個別技術）
+- [開発チームのプロジェクトマネージャーになって最初にやったことn連発 | DevelopersIO](https://dev.classmethod.jp/articles/various-actions-since-q1-as-a-dev-pm/)
+- [イーロン・マスクのロケット製造５つのステップがサイコーだった](https://jabba.cloud/20210807-elon-musk)
+- [日本企業においてリーダーシップが生まれにくい理由～リーダーシップを取る事の割の合わなさ問題～ - Togetter](https://togetter.com/li/1763245)
+- [予算の作り方｜和田洋一｜note](https://note.com/waday/n/n616eaf6503a5)
+- [内部から見たアマゾン文化：実験、失敗、そしてカスタマーオブセッション | Amazon Web Services ブログ](https://aws.amazon.com/jp/blogs/news/an-inside-look-at-the-amazon-culture-experimentation-failure-and-customer-obsession/)
+- [なぜ、ソフトウェアプロジェクトは人数を増やしても上手くいかないのか - Qiita](https://qiita.com/hirokidaichi/items/7f7f7881acba9302301f#:~:text=%E4%BA%BA%E6%95%B0%E8%BF%BD%E5%8A%A0%E3%81%AB%E3%82%88%E3%81%A3%E3%81%A6%E7%94%9F%E7%94%A3%E6%80%A7,%E3%82%88%E3%81%86%E3%81%AB%E7%AE%97%E5%87%BA%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%99%E3%80%82&text=%E3%81%9F%E3%81%A8%E3%81%88%E3%81%B0%E3%80%81%E5%85%83%E3%81%8Ca%3D0.3,%E3%82%88%E3%81%86%E3%81%AB%E8%A8%88%E7%AE%97%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%99%E3%80%82)
+- [みずほ銀行システム障害の報告書を読んだ結果 - Togetter](https://togetter.com/li/1731325)
+- [アプリケーション・エンジニア職位ガイドライン（オープン・グレード）](https://notion.yumemi.co.jp/76e2dc44fd8c441db10c7f9c5d03e7a9)
+- [ゲーム開発 プロジェクトマネジメント講座](http://www.jp.square-enix.com/tech/openconference/library/2011/dldata/PM/PM.pdf)
+- [経産省の「DXレポート2.1」で見つけた示唆に富む「デジタル産業と既存産業の比較」 - ZDNet Japan](https://japan.zdnet.com/article/35176423/)
+- [職務経歴書／履歴書からカルチャーフィットを読み解く方法｜tebiki ブログ｜note](https://note.com/tebiki/n/n9102736b7c5b)
+- [“開発を終わらせる”哲学から生まれるゲーム制作。17年にも及ぶ「軌跡」シリーズを振り返りながら日本ファルコムが「何を大事にしているのか」を近藤社長に聞く（電ファミニコゲーマー） - Yahoo!ニュース](https://news.yahoo.co.jp/articles/d4e86d7aae8629cfe3c29190373d3d8814e1e180)
+- [エンジニアの視点で考えるクラウドネイティブ技術の必要性とは 記事一覧 | Think IT（シンクイット）](https://thinkit.co.jp/series/10093)
+- [AWS IAM セキュア化の取り組み. AWS… | by Daichi Harada | Eureka Engineering | Dec, 2021 | Medium](https://medium.com/eureka-engineering/securing-aws-iam-3064e9587703)
+- [7年続いたサービスをEC2構成からECS構成へ乗り換えた話 - KAYAC engineers' blog](https://techblog.kayac.com/2021/12/20/120000)
+- [【クラウドエンジニア向け】無償公開されている講義資料・研修資料リンク集 - Qiita](https://qiita.com/yoshiyama_hana/items/96dbe0b82ca783c86be0)
+- [東京工業大学、機械学習の講義ノートが無料公開 Pythonの実装も学べる](https://ledge.ai/titech-ac-chokkan-github-io/)
+- [京都大学、Pythonの基本を解説した無料の教科書「素晴らしすぎる」「非常にわかりやすくて良い」 | Ledge.ai](https://ledge.ai/kyoto-u-ac-python/)
+- [AWS WAF の検知結果を Slack 通知して誤検知に対処しよう](https://zenn.dev/leaner_tech/articles/20211125-waf-notify)
+- [なぜ内製化STEP0サービスを作ったのか | DevelopersIO](https://dev.classmethod.jp/articles/start-insource-step0/)
+- [GitHub の基礎 - 管理の基本と製品の機能。 - Learn | Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/paths/github-administration-products/)
+- [記者に「プログラミングのスキル」って必要なの？ちなみにNHKニュースの画像生成も記者がコードを書いてます｜NHK](https://www.nhk.or.jp/d-navi/note/article/20210830.html)
+- [MIT Tech Review: 登 大遊「イノベーションは“いんちき遊び”から生まれる」](https://www.technologyreview.jp/s/254889/the-genius-programmer-says-innovation-is-born-from-playfulness/)
+- [Kindle蔵書一覧を取得する方法 - Qiita](https://qiita.com/taka_hira/items/8a9181c0733de2c9f8ee)
+- [社内で増え続けるSaaSを“家計簿”のように管理、マネーフォワードが新サービス | DIAMOND SIGNAL](https://signal.diamond.jp/articles/-/831)
+- [GitHub 英語例文集](https://zenn.dev/boarwell/articles/english-examples)
+- [N予備校のマイクロサービス - ドワンゴ教育サービス開発者ブログ](https://blog.nnn.dev/entry/2021/08/25/110000)
+- [初めてのPerformance Insights入門 – その２ | Amazon Web Services ブログ](https://aws.amazon.com/jp/blogs/news/introduction-to-performance-insights-for-beginner-part2/)
+- [中国人やインド人が、すぐにちゃぶ台返しをする理由：日経ビジネス電子版](https://business.nikkei.com/atcl/seminar/20/00046/081700004/)
+- [ECSを運用で使っていて難しいと思った点 - アジャイルSEの憂鬱](https://sinsoku.hatenablog.com/entry/2021/08/11/232201)
+- [門外不出のOracle現場ワザ | Oracle 日本](https://www.oracle.com/jp/technical-resources/article/unexpected-oracle-field-tricks.html)
+- [「仕事のコード」を残す際のチェックリスト｜Uchio Kondo｜note](https://note.com/udzura/n/n02f2ffc532e3)
+- [政府や自治体のシステムが今までどうなっていて今後どうなるかをできる限り簡単に説明してみる - orangeitems’s diary](https://www.orangeitems.com/entry/2021/08/28/004815)
+- [ローコードテスト自動化ツールの mabl がすごい](https://zenn.dev/seya/articles/eb03a550b7f19b)
+- []()
 
 ----
 ###### 20220103 あとでよむ（API関連情報収取）
