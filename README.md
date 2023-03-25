@@ -1,5 +1,24 @@
 # TIL
 Today I Learend
+----
+###### 20230325 あとでよむ
+- [1億円を投資した、プロダクトリニューアルが失敗に終わった理由](https://note.com/osamuyamada/n/n8833d6973941)
+- [そもそも「冒険者ギルド」言い出したの誰？](https://togetter.com/li/1280153)
+- [中高生が自力で200万円以上の資金調達まで行う国際ロボコン｢FRC｣の凄み](https://toyokeizai.net/articles/-/594146)
+- [AWS Lambda Security Best Practices](https://medium.com/@cloud_tips/aws-lambda-security-best-practices-ac6cb3e23222)
+- [開発環境へのこだわり](https://speakerdeck.com/hsbt/kai-fa-huan-jing-hefalsekodawari?slide=13)
+- [ソニーの研修、東大の授業でも高評価。アイデアの質が高まる「トリーズの9画面法」がすごい](https://studyhacker.net/triz-9-idea)
+- [Webブラウザ版VSCode、WebAssembly版PythonによるWeb上でのPythonコードの実行やデバッグが可能に](https://www.publickey1.jp/blog/22/webvscodewebassemblypythonwebpython.html)
+- [【GAS (Google Apps Script) 】コードの書き方・テクニック編｜Offers Tech Blog](https://zenn.dev/offers/articles/20220616-google-app-script-technique)
+- [技術系イベント登壇における資料作成のコツ](https://tech.isid.co.jp/entry/2022/06/20/%E6%8A%80%E8%A1%93%E7%B3%BB%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E7%99%BB%E5%A3%87%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E8%B3%87%E6%96%99%E4%BD%9C%E6%88%90%E3%81%AE%E3%82%B3%E3%83%84)
+- [脆弱性診断につかえるツール集](https://qiita.com/kannkyo/items/669affadab6d667f8b6e)
+- [作ってわかる！ はじめてのgRPC](https://zenn.dev/hsaki/books/golang-grpc-starting)
+- [偽・誤情報に関する啓発教育教材「インターネットとの向き合い方～ニセ・誤情報に騙されないために～」等の公表](https://www.soumu.go.jp/menu_news/s-news/01ryutsu02_02000340.html)
+- [見えてきたサイバー戦 ハイブリッド戦 ウクライナで激しい攻防](https://www3.nhk.or.jp/news/html/20220627/k10013690111000.html)
+- [リリース手法多すぎﾜﾛﾀｧ　B/G、カナリア、機能フラグ、ダークローンチ、A/Bテスト、、など](https://qiita.com/minorun365/items/3c92187cb251abbd92bc)
+- [「やはりインフラ作りは楽しくてしょうがない」
+村井純×登大遊×田中邦裕が語る、日本のICTの課題と期待](https://logmi.jp/tech/articles/326896)
+
 
 ----
 ###### 20220118 あとでよむ（PM観点と個別技術）
