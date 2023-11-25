@@ -1,5 +1,28 @@
 # TIL
 Today I Learend
+###### 20231125 あとでよむ
+- [AWS IAM セキュア化の取り組み. AWS… | by Daichi Harada | Eureka Engineering | Dec, 2021 | Medium](https://medium.com/eureka-engineering/securing-aws-iam-3064e9587703)
+- [7年続いたサービスをEC2構成からECS構成へ乗り換えた話 - KAYAC engineers' blog](https://techblog.kayac.com/2021/12/20/120000)
+- [10人規模のチームを自律自走させ、成長組織へ変革するため実践していること](https://zenn.dev/hiro_torii/articles/93138ea37c785f)
+- [AWSのコストモニタリングの知見をシェアしたい - Uzabase for Engineers](https://tech.uzabase.com/entry/2022/07/26/153937)
+- [DMBOKを用いたアセスメントでデータマネジメントを加速させる - MonotaRO Tech Blog](https://tech-blog.monotaro.com/entry/2022/07/27/090000)
+- [データベース設計の基本とアジャイル開発 - そーだいが解説する変化に対応する実装 - Agile Journey](https://agilejourney.uzabase.com/entry/2022/07/28/103000)
+- [見積・提案書に書いておくと不幸を減らせる前提条件](https://zenn.dev/nuits_jp/articles/2022-07-31-estimate-assumptions)
+- [誰もがデジタルクリエイターになれる Salesforce Platformの全貌とその真価とは - 日経クロステックSpecial](https://special.nikkeibp.co.jp/atclh/NXT/22/salesforce0803/)
+- [ITの世界でよく聞く言葉「アジャイル」ってどういう意味？｜@DIME アットダイム](https://dime.jp/genre/1433251/)
+- [英語ミーティングを乗り切るために身につけたバッドノウハウ - knqyf263's blog](https://knqyf263.hatenablog.com/entry/2021/08/04/211903)
+- [サイバーエージェントが公開した“300ページ級のUnity技術書”がスゴい！しかも誰でも無料で読める｜Unity Japan（ユニティ・テクノロジーズ・ジャパン）](https://note.com/unityjapan/n/nd4192d719631)
+- []()
+###### 生成AI
+- [これから、"Prompt Engineering"の話をします…｜Sangmin Ahn](https://note.com/sangmin/n/n170bdfd624bc)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+
 ----
 ###### 20230325 あとでよむ
 - [1億円を投資した、プロダクトリニューアルが失敗に終わった理由](https://note.com/osamuyamada/n/n8833d6973941)
